@@ -1,0 +1,15 @@
+C:\Cdz2\dz2\dz6_dop\bin\Debug\net6.0\dz6_dop.exe
+C:\Cdz2\dz2\dz6_dop\bin\Debug\net6.0\dz6_dop.deps.json
+C:\Cdz2\dz2\dz6_dop\bin\Debug\net6.0\dz6_dop.runtimeconfig.json
+C:\Cdz2\dz2\dz6_dop\bin\Debug\net6.0\dz6_dop.dll
+C:\Cdz2\dz2\dz6_dop\bin\Debug\net6.0\dz6_dop.pdb
+C:\Cdz2\dz2\dz6_dop\obj\Debug\net6.0\dz6_dop.csproj.AssemblyReference.cache
+C:\Cdz2\dz2\dz6_dop\obj\Debug\net6.0\dz6_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cdz2\dz2\dz6_dop\obj\Debug\net6.0\dz6_dop.AssemblyInfoInputs.cache
+C:\Cdz2\dz2\dz6_dop\obj\Debug\net6.0\dz6_dop.AssemblyInfo.cs
+C:\Cdz2\dz2\dz6_dop\obj\Debug\net6.0\dz6_dop.csproj.CoreCompileInputs.cache
+C:\Cdz2\dz2\dz6_dop\obj\Debug\net6.0\dz6_dop.dll
+C:\Cdz2\dz2\dz6_dop\obj\Debug\net6.0\refint\dz6_dop.dll
+C:\Cdz2\dz2\dz6_dop\obj\Debug\net6.0\dz6_dop.pdb
+C:\Cdz2\dz2\dz6_dop\obj\Debug\net6.0\dz6_dop.genruntimeconfig.cache
+C:\Cdz2\dz2\dz6_dop\obj\Debug\net6.0\ref\dz6_dop.dll
