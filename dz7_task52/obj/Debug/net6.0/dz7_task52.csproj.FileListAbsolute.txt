@@ -1,0 +1,15 @@
+C:\Cdz2\dz2\dz7_task52\bin\Debug\net6.0\dz7_task52.exe
+C:\Cdz2\dz2\dz7_task52\bin\Debug\net6.0\dz7_task52.deps.json
+C:\Cdz2\dz2\dz7_task52\bin\Debug\net6.0\dz7_task52.runtimeconfig.json
+C:\Cdz2\dz2\dz7_task52\bin\Debug\net6.0\dz7_task52.dll
+C:\Cdz2\dz2\dz7_task52\bin\Debug\net6.0\dz7_task52.pdb
+C:\Cdz2\dz2\dz7_task52\obj\Debug\net6.0\dz7_task52.csproj.AssemblyReference.cache
+C:\Cdz2\dz2\dz7_task52\obj\Debug\net6.0\dz7_task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cdz2\dz2\dz7_task52\obj\Debug\net6.0\dz7_task52.AssemblyInfoInputs.cache
+C:\Cdz2\dz2\dz7_task52\obj\Debug\net6.0\dz7_task52.AssemblyInfo.cs
+C:\Cdz2\dz2\dz7_task52\obj\Debug\net6.0\dz7_task52.csproj.CoreCompileInputs.cache
+C:\Cdz2\dz2\dz7_task52\obj\Debug\net6.0\dz7_task52.dll
+C:\Cdz2\dz2\dz7_task52\obj\Debug\net6.0\refint\dz7_task52.dll
+C:\Cdz2\dz2\dz7_task52\obj\Debug\net6.0\dz7_task52.pdb
+C:\Cdz2\dz2\dz7_task52\obj\Debug\net6.0\dz7_task52.genruntimeconfig.cache
+C:\Cdz2\dz2\dz7_task52\obj\Debug\net6.0\ref\dz7_task52.dll
