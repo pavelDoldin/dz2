@@ -1,0 +1,15 @@
+C:\Cdz2\dz2\hernovik\obj\Debug\net6.0\hernovik.csproj.AssemblyReference.cache
+C:\Cdz2\dz2\hernovik\obj\Debug\net6.0\hernovik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cdz2\dz2\hernovik\obj\Debug\net6.0\hernovik.AssemblyInfoInputs.cache
+C:\Cdz2\dz2\hernovik\obj\Debug\net6.0\hernovik.AssemblyInfo.cs
+C:\Cdz2\dz2\hernovik\obj\Debug\net6.0\hernovik.csproj.CoreCompileInputs.cache
+C:\Cdz2\dz2\hernovik\bin\Debug\net6.0\hernovik.exe
+C:\Cdz2\dz2\hernovik\bin\Debug\net6.0\hernovik.deps.json
+C:\Cdz2\dz2\hernovik\bin\Debug\net6.0\hernovik.runtimeconfig.json
+C:\Cdz2\dz2\hernovik\bin\Debug\net6.0\hernovik.dll
+C:\Cdz2\dz2\hernovik\bin\Debug\net6.0\hernovik.pdb
+C:\Cdz2\dz2\hernovik\obj\Debug\net6.0\hernovik.dll
+C:\Cdz2\dz2\hernovik\obj\Debug\net6.0\refint\hernovik.dll
+C:\Cdz2\dz2\hernovik\obj\Debug\net6.0\hernovik.pdb
+C:\Cdz2\dz2\hernovik\obj\Debug\net6.0\hernovik.genruntimeconfig.cache
+C:\Cdz2\dz2\hernovik\obj\Debug\net6.0\ref\hernovik.dll

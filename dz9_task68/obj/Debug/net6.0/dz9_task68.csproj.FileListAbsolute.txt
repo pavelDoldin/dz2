@@ -1,0 +1,15 @@
+C:\Cdz2\dz2\dz9_task68\obj\Debug\net6.0\dz9_task68.csproj.AssemblyReference.cache
+C:\Cdz2\dz2\dz9_task68\obj\Debug\net6.0\dz9_task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cdz2\dz2\dz9_task68\obj\Debug\net6.0\dz9_task68.AssemblyInfoInputs.cache
+C:\Cdz2\dz2\dz9_task68\obj\Debug\net6.0\dz9_task68.AssemblyInfo.cs
+C:\Cdz2\dz2\dz9_task68\obj\Debug\net6.0\dz9_task68.csproj.CoreCompileInputs.cache
+C:\Cdz2\dz2\dz9_task68\bin\Debug\net6.0\dz9_task68.exe
+C:\Cdz2\dz2\dz9_task68\bin\Debug\net6.0\dz9_task68.deps.json
+C:\Cdz2\dz2\dz9_task68\bin\Debug\net6.0\dz9_task68.runtimeconfig.json
+C:\Cdz2\dz2\dz9_task68\bin\Debug\net6.0\dz9_task68.dll
+C:\Cdz2\dz2\dz9_task68\bin\Debug\net6.0\dz9_task68.pdb
+C:\Cdz2\dz2\dz9_task68\obj\Debug\net6.0\dz9_task68.dll
+C:\Cdz2\dz2\dz9_task68\obj\Debug\net6.0\refint\dz9_task68.dll
+C:\Cdz2\dz2\dz9_task68\obj\Debug\net6.0\dz9_task68.pdb
+C:\Cdz2\dz2\dz9_task68\obj\Debug\net6.0\dz9_task68.genruntimeconfig.cache
+C:\Cdz2\dz2\dz9_task68\obj\Debug\net6.0\ref\dz9_task68.dll
