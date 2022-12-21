@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cdz2\\dz2\\dz8_task61\\dz8_task61.csproj",
+      "projectUniqueName": "C:\\Cdz2\\dz2\\dz8_dop\\dz8_task61.csproj",
       "projectName": "dz8_task61",
-      "projectPath": "C:\\Cdz2\\dz2\\dz8_task61\\dz8_task61.csproj",
+      "projectPath": "C:\\Cdz2\\dz2\\dz8_dop\\dz8_task61.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Cdz2\\dz2\\dz8_task61\\obj\\",
+      "outputPath": "C:\\Cdz2\\dz2\\dz8_dop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

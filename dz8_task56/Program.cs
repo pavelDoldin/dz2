@@ -1,56 +1,58 @@
 ﻿// Задайте двухмерный массив. Напишите программу которая будет находить 
 //строку с наименьшией суммой элементов.
 
-void FillArrayRandomNumbers(int[,] array)
+void InputMatrix(int[,] matrix)
 {
-    Random rnd = new Random();
-    for (int i = 0; i < array.GetLength(0); i++)
+    for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
-            array[i, j] = rnd.Next(1, 10);
-        }
+        for (int j = 0; j < matrix.GetLength(1); j++)
+            matrix[i, j] = new Random().Next(1, 11); // [1, 10]
     }
 }
 
-void PrintArray(int[,] array)
+
+void PrintMatrix(int[,] matrix)
 {
-    for (int i = 0; i < array.GetLength(0); i++)
+    for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
-            Console.Write(array[i, j] + " ");
-        }
-        Console.WriteLine("");
+        for (int j = 0; j < matrix.GetLength(1); j++)
+            Console.Write($"{matrix[i, j]} \t");
+        Console.WriteLine();
     }
 }
+
+
+int ReleaseMatrix(int[,] matrix)
+{
+    int minRow = 0;
+    for (int i = 0; i < matrix.GetLength(1); i++)
+        minRow += matrix[0, i];
+
+    for (int i = 1; i < matrix.GetLength(0); i++)
+    {
+        int sumRow = 0;
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            sumRow += matrix[i, j];
+        }
+        if (minRow > sumRow)
+            minRow = sumRow;
+    }
+    return minRow;
+}
+
 
 Console.Clear();
-Console.Write("Введите количество строк: ");
-int linesSum = int.Parse(Console.ReadLine());
-Console.Write("Введите количество столбцов:");
-int columnsSum = int.Parse(Console.ReadLine());
-
-int[,] array = new int[linesSum, columnsSum];
-FillArrayRandomNumbers(array);
-PrintArray(array);
-
-int minSum = Int32.MaxValue;
-int index = 0;
-for (int i = 0; i < array.Length; i++) ;
+Console.Write("Введите размер прямоугольного двумерного массива: ");
+int[] size = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
+while (size[0] == size[1])
 {
-    int sum = 0;
-    for (int i = 0; i < array.GetLength(0); i++)
-    {
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
-            sum = (sum + array[i, j]);
-        }
-        if (sum < minSum)
-        {
-            minSum = sum;
-            index++;
-        }
-    }
+    Console.Write("Вы ошиблись!\nВведите размер прямоугольного двумерного массива: ");
+    size = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
 }
-Console.WriteLine($"Строка с наименьшей суммой чисел ({minSum}) является строка ({index})");
+int[,] matrix = new int[size[0], size[1]];
+InputMatrix(matrix);
+Console.WriteLine("Начальный двумерный массив: ");
+PrintMatrix(matrix);
+Console.WriteLine();
+Console.WriteLine($"Результат: {ReleaseMatrix(matrix)}");

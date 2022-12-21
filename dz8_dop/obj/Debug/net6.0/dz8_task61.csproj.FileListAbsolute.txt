@@ -1,0 +1,15 @@
+C:\Cdz2\dz2\dz8_dop\bin\Debug\net6.0\dz8_task61.exe
+C:\Cdz2\dz2\dz8_dop\bin\Debug\net6.0\dz8_task61.deps.json
+C:\Cdz2\dz2\dz8_dop\bin\Debug\net6.0\dz8_task61.runtimeconfig.json
+C:\Cdz2\dz2\dz8_dop\bin\Debug\net6.0\dz8_task61.dll
+C:\Cdz2\dz2\dz8_dop\bin\Debug\net6.0\dz8_task61.pdb
+C:\Cdz2\dz2\dz8_dop\obj\Debug\net6.0\dz8_task61.csproj.AssemblyReference.cache
+C:\Cdz2\dz2\dz8_dop\obj\Debug\net6.0\dz8_task61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cdz2\dz2\dz8_dop\obj\Debug\net6.0\dz8_task61.AssemblyInfoInputs.cache
+C:\Cdz2\dz2\dz8_dop\obj\Debug\net6.0\dz8_task61.AssemblyInfo.cs
+C:\Cdz2\dz2\dz8_dop\obj\Debug\net6.0\dz8_task61.csproj.CoreCompileInputs.cache
+C:\Cdz2\dz2\dz8_dop\obj\Debug\net6.0\dz8_task61.dll
+C:\Cdz2\dz2\dz8_dop\obj\Debug\net6.0\refint\dz8_task61.dll
+C:\Cdz2\dz2\dz8_dop\obj\Debug\net6.0\dz8_task61.pdb
+C:\Cdz2\dz2\dz8_dop\obj\Debug\net6.0\dz8_task61.genruntimeconfig.cache
+C:\Cdz2\dz2\dz8_dop\obj\Debug\net6.0\ref\dz8_task61.dll
